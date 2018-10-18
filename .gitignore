@@ -24,7 +24,11 @@
 /nbdist/
 /.nb-gradle/
 
+### Java related files ###
 .jar
+
+
+### Maven ###
 .mvn/*
 mvnw.cmd
 mvnw
